@@ -75,7 +75,7 @@
         
              <configuration>
           <additionalClasspathElements>
-            <additionalClasspathElement>lib/*</additionalClasspathElement>
+            <additionalClasspathElement>/var/lib/jenkins/workspace/SoapUIJava/lib/*</additionalClasspathElement>
                    </additionalClasspathElements>
                    </configuration>
                       </plugin>
