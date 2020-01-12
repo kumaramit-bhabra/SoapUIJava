@@ -35,6 +35,12 @@
             <artifactId>testng</artifactId>
             <version>7.0.0</version>
         </dependency>
+             
+             <dependency>
+<groupId>com.fifesoft</groupId>
+<artifactId>rsyntaxtextarea</artifactId>
+<version>1.4.0</version>
+</dependency>
 
         <dependency>
             <groupId>com.smartbear.soapui</groupId>
