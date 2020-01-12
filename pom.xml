@@ -16,12 +16,12 @@
         </pluginRepository>
     </pluginRepositories>
          
-        <!-- <repositories>
+        <repositories>
         <repository>
             <id>smartbear-sweden-repository</id>
             <url>http://smartbearsoftware.com/repository/maven2/</url>
         </repository>
-    </repositories>-->
+    </repositories>
 
 
     <dependencies>
