@@ -76,6 +76,7 @@
              <configuration>
           <additionalClasspathElements>
             <additionalClasspathElement>lib/*</additionalClasspathElement>
+                   </additionalClasspathElements>
                    </configuration>
                       </plugin>
     </plugins>
