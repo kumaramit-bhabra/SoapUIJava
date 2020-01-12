@@ -42,11 +42,12 @@
 <version>2.6.1</version>
 </dependency>
 
-        <!--<dependency>
-            <groupId>com.smartbear.soapui</groupId>
-            <artifactId>soapui</artifactId>
-            <version>4.6.1</version>
-        </dependency>-->
+        <dependency>
+        <groupId>com.smartbear.soapui</groupId>
+        <artifactId>soapui</artifactId>
+        <version>5.5.0</version>
+        <scope>test</scope>
+    </dependency>
         <!--<dependency>
             <groupId>com.smartbear.soapui</groupId>
             <artifactId>soapui-maven-plugin</artifactId>
