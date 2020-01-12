@@ -16,12 +16,12 @@
         </pluginRepository>
     </pluginRepositories>
          
-         <!--<repositories>
+         <repositories>
         <repository>
             <id>smartbear-sweden-repository</id>
             <url>http://smartbearsoftware.com/repository/maven2/</url>
         </repository>
-    </repositories>-->
+    </repositories>
 
 
     <dependencies>
@@ -85,12 +85,12 @@
         <plugin>
             <groupId>com.smartbear.soapui</groupId>
             <artifactId>soapui-maven-plugin</artifactId>
-            <version>4.6.1</version>
+            <version>5.3.0</version>
         
              <configuration>
-          <additionalClasspathElements>
+          <!--<additionalClasspathElements>
             <additionalClasspathElement>/var/lib/jenkins/workspace/SoapUIJava/lib/*</additionalClasspathElement>
-                   </additionalClasspathElements>
+                   </additionalClasspathElements>-->
                    </configuration>
                       </plugin>
     </plugins>
