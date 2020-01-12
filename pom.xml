@@ -11,7 +11,11 @@
     <pluginRepositories>
         <pluginRepository>
             <id>SmartBearPluginRepository</id>
-            <url>http://smartbearsoftware.com/repository/maven2/</url>
+            <url>http://www.soapui.org/repository/maven2/</url>
+        </pluginRepository>
+        <pluginRepository>
+            <id>eviwarePluginRepository</id>
+            <url>http://www.soapui.org/repository/maven2/</url>
         </pluginRepository>
     </pluginRepositories>
 
