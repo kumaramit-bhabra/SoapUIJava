@@ -72,11 +72,12 @@
             <groupId>com.smartbear.soapui</groupId>
             <artifactId>soapui-maven-plugin</artifactId>
             <version>4.6.1</version>
-        </plugin>
+        
              <configuration>
           <additionalClasspathElements>
             <additionalClasspathElement>lib/*</additionalClasspathElement>
                    </configuration>
+                      </plugin>
     </plugins>
 </build>
 
