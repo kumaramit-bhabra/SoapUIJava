@@ -47,7 +47,7 @@
             <artifactId>soapui</artifactId>
             <version>4.6.1</version>
         </dependency>-->
-        <dependency>
+        <!--<dependency>
             <groupId>com.smartbear.soapui</groupId>
             <artifactId>soapui-maven-plugin</artifactId>
             <version>4.6.1</version>
@@ -57,7 +57,7 @@
             <groupId>com.smartbear.soapui</groupId>
             <artifactId>soapui-project</artifactId>
             <version>4.6.1</version>
-        </dependency>
+        </dependency>-->
 
 
         <dependency>
