@@ -8,18 +8,20 @@
     <artifactId>SoapUIJavaInt</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <repositories>
-        <repository>
-            <id>smartbear-sweden-repository</id>
-            <url>http://smartbearsoftware.com/repository/maven2/</url>
-        </repository>
-    </repositories>
+    
     <pluginRepositories>
         <pluginRepository>
             <id>smartbear-sweden-plugin-repository</id>
             <url>http://smartbearsoftware.com/repository/maven2/</url>
         </pluginRepository>
     </pluginRepositories>
+         
+         <repositories>
+        <repository>
+            <id>smartbear-sweden-repository</id>
+            <url>http://smartbearsoftware.com/repository/maven2/</url>
+        </repository>
+    </repositories>
 
 
     <dependencies>
