@@ -24,7 +24,7 @@ public class SoapIntegration
         // WsdlProject project = new WsdlProject("C:\\Users\\Admin\\Documents\\SoapUI\\Library-Books-soapui-project.xml");
 
         //This is for Jenkins
-        WsdlProject project = new WsdlProject("./var/lib/jenkins/workspace/SoapUI/Library-Books-soapui-project.xml");
+        WsdlProject project = new WsdlProject("/Library-Books-soapui-project.xml");
         WsdlTestSuite testSuite = project.getTestSuiteByName("E2E - Add Find Delete Book");
         System.out.println("Hello Count is "+ testSuite.getTestCaseCount());
         for(int i = 0 ; i < testSuite.getTestCaseCount(); i++)
